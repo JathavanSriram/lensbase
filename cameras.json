@@ -1,0 +1,102 @@
+[
+   {
+      "id":10,
+      "manufacturer":"Arri",
+      "series":"Alexa XT",
+      "name":"Alexa XT Studio",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":1,
+      "manufacturer":"Arri",
+      "series":"Alexa Classic",
+      "name":"Alexa",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":""
+   },
+   {
+      "id":2,
+      "manufacturer":"Arri",
+      "series":"Alexa Classic",
+      "name":"Alexa Plus",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":3,
+      "manufacturer":"Arri",
+      "series":"Alexa Classic",
+      "name":"Alexa Plus 4:3",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":4,
+      "manufacturer":"Arri",
+      "series":"Alexa Classic",
+      "name":"Alexa M",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":5,
+      "manufacturer":"Arri",
+      "series":"Alexa Classic",
+      "name":"Alexa Studio",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":6,
+      "manufacturer":"Arri",
+      "series":"Alexa Classic",
+      "name":"Alexa Fiber Remote",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":""
+   },
+   {
+      "id":7,
+      "manufacturer":"Arri",
+      "series":"Alexa XT",
+      "name":"Alexa XT",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":8,
+      "manufacturer":"Arri",
+      "series":"Alexa XT",
+      "name":"Alexa XT M",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   },
+   {
+      "id":9,
+      "manufacturer":"Arri",
+      "series":"Alexa XT",
+      "name":"Alexa XT Plus",
+      "real_sensor_size_h":null,
+      "real_sensor_size_v":null,
+      "mounting":null,
+      "lens_metadata":null
+   }
+]
